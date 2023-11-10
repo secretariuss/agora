@@ -1,0 +1,44 @@
+[
+    {
+        "id": "000000000000000000000000000000001",
+        "first_name": "Dan",
+        "last_name": "Balan",
+        "Join_date": "Wed Aug 05 05:46:48 +0000 2009",
+        "number_follower": "9.759",
+        "number_following": "1.759",
+        "number_tweets": "1.111",
+        "number_replies": "1.211",
+        "number_likes": "1.311",
+        "username": "sdsad",
+        "email": "dan@gmail.com",
+        "password": "password12345"
+      },
+      {
+        "id": "000000000000000000000000000000002",
+        "first_name": "Daniel",
+        "last_name": "Stern",
+        "Join_date": "Wed Aug 05 05:46:48 +0000 2009",
+        "number_follower": "9.759",
+        "number_following": "1.759",
+        "number_tweets": "1.111",
+        "number_replies": "1.211",
+        "number_likes": "1.311",
+        "username": "sdsad",
+        "email": "daniel@gmail.com",
+        "password": "password12345"
+      },
+      {
+        "id": "000000000000000000000000000000003",
+        "first_name": "Michael",
+        "last_name": "Vern",
+        "Join_date": "Wed Aug 05 05:46:48 +0000 2009",
+        "number_follower": "9.759",
+        "number_following": "1.759",
+        "number_tweets": "1.111",
+        "number_replies": "1.211",
+        "number_likes": "1.311",
+        "username": "sdsad",
+        "email": "vern@gmail.com",
+        "password": "password12345"
+      }
+]
